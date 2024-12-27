@@ -36,6 +36,8 @@ Make sure you have the following tools installed:
     ```
 
 4. Open the app in your browser at `http://localhost:3000`.
+5. ![image](https://github.com/user-attachments/assets/8ea0a3e8-cf3b-4c64-9887-850b45b9c712)
+
 
 ## Usage
 
